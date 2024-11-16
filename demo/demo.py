@@ -9,7 +9,7 @@ import torch
 sys.path.insert(0, osp.join('..', 'main'))
 sys.path.insert(0, osp.join('..', 'data'))
 sys.path.insert(0, osp.join('..', 'common'))
-from config import cfg
+
 from model import Model
 
 
